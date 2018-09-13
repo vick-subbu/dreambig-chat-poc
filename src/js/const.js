@@ -1,4 +1,4 @@
-export const APP_ID = '290590A1-09D6-4835-B384-4469A3997418';
+export const APP_ID = 'B24D13A4-7766-4C35-BE2F-42DD8426130E';
 export const USER_ID = 'user_id';
 export const DISPLAY_NONE = 'none';
 export const DISPLAY_BLOCK = 'block';
